@@ -175,3 +175,5 @@ train_neural_network(x)
 > 2018/12/28: Installed tensorflow-gpu
 >
 > 2018/12/29: Trained a model on MNIST dataset
+> 
+> 2018/01/12: Created the script for pos-neg sentiment analysis

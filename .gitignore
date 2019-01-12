@@ -1,2 +1,4 @@
 
 Deep learning with Neural Networks and Tensorflow/mnist/*.gz
+**/*.pickle
+**/__pycache__
